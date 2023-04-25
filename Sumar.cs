@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practicando
 {
-    internal class Sumar
+    public class Sumar
     {
         public int Sumando(int a, int b)
         {
